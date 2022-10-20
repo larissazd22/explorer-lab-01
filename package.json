@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "imask": "^6.4.3",
+    "npm-git-install": "^0.3.0"
+  }
+}
